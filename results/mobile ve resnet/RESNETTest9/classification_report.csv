@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+Bacterialblight,1.0,1.0,1.0,288.0
+Blast,1.0,1.0,1.0,297.0
+Brownspot,1.0,1.0,1.0,331.0
+Tungro,1.0,1.0,1.0,270.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,1186.0
+weighted avg,1.0,1.0,1.0,1186.0

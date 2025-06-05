@@ -1,0 +1,12 @@
+{
+    "model_name": "resnet",
+    "dropout_rate": 0.2,
+    "dense_units": 128,
+    "use_augmentation": false,
+    "epochs": 5,
+    "input_size": [
+        224,
+        224
+    ],
+    "num_classes": 4
+}

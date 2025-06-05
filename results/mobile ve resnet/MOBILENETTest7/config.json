@@ -1,0 +1,12 @@
+{
+    "model_name": "mobilenet",
+    "dropout_rate": 0.4,
+    "dense_units": 256,
+    "use_augmentation": false,
+    "epochs": 5,
+    "input_size": [
+        224,
+        224
+    ],
+    "num_classes": 4
+}

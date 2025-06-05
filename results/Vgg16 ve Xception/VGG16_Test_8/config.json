@@ -1,0 +1,12 @@
+{
+    "model_name": "vgg16",
+    "dropout_rate": 0.2,
+    "dense_units": 256,
+    "use_augmentation": false,
+    "epochs": 5,
+    "input_size": [
+        224,
+        224
+    ],
+    "num_classes": 4
+}
